@@ -1,2 +1,1 @@
-# Email-Verification-Example
-Code Patterns
+# email-verification
